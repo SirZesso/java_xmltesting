@@ -1,3 +1,5 @@
+package example;
+
 import jakarta.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
