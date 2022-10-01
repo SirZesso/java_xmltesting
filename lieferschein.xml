@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lieferschein nummer="1">
+    <lieferdatum>2000-12-03</lieferdatum>
+    <kunde>
+        <adresse>Hessostrasse 12</adresse>
+        <kundeNr>118</kundeNr>
+        <name>Yannic Ziegler</name>
+        <ort>Grenchen</ort>
+        <plz>2540</plz>
+    </kunde>
+    <positionen>
+        <position>
+            <artikelNr>2</artikelNr>
+            <menge>2</menge>
+        </position>
+        <position>
+            <artikelNr>4</artikelNr>
+            <menge>100</menge>
+        </position>
+    </positionen>
+</lieferschein>
