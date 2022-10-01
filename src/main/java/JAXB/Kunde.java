@@ -1,3 +1,5 @@
+package JAXB;
+
 public class Kunde {
     private long kundeNr;
     private String name;

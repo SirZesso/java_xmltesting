@@ -1,3 +1,5 @@
+package JAXB;
+
 public class LieferscheinPosition {
 
     private int menge;

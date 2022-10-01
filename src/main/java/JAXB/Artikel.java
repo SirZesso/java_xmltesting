@@ -1,3 +1,5 @@
+package JAXB;
+
 public class Artikel {
     private int artikelNr;
     private String bezeichner;

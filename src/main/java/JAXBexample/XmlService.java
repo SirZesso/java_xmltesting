@@ -1,4 +1,4 @@
-package example;
+package JAXBexample;
 
 import java.io.File;
 import java.io.FileWriter;

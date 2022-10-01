@@ -1,4 +1,4 @@
-package jsonBsp;
+package JSONP;
 
 import jakarta.json.Json;
 import jakarta.json.JsonObject;

@@ -1,4 +1,4 @@
-package example;
+package JAXBexample;
 
 import jakarta.xml.bind.annotation.XmlRootElement;
 
